@@ -1,2 +1,2 @@
 # Voicify
-VIHAAN 6.0 DTU Hackathon
+Removing the barriers of communication
